@@ -1,21 +1,21 @@
-# Contributing to Simple Interest Calculator
+# Contribuyendo a Simple Interest Calculator
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Se aceptan todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras y ideas.
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them with a clear message.
-4. Push your changes to your fork.
-5. Open a pull request describing your changes.
+## Cómo contribuir
+1. Bifurca el repositorio.
+2. Crea una nueva rama para tus cambios.
+3. Realiza tus cambios y confírmalos con un mensaje claro.
+4. Sube tus cambios a tu bifurcación.
+5. Abre una solicitud de extracción describiendo tus cambios.
 
-## Reporting Bugs
-If you find a bug, please open an issue describing the problem and steps to reproduce it.
+## Reportar errores
+Si encuentras un error, por favor abre un issue describiendo el problema y los pasos para reproducirlo.
 
-## Suggesting Enhancements
-Enhancement suggestions are tracked as GitHub issues. Provide a clear description of the suggested improvement.
+## Sugerir mejoras
+Las sugerencias de mejora se rastrean como issues de GitHub. Proporciona una descripción clara de la mejora sugerida.
 
-## Code Style
-Keep the code clean, commented, and consistent with the existing style in the repository.
+## Estilo de código
+Mantén el código limpio, comentado y consistente con el estilo existente en el repositorio.
 
-Thank you for contributing!
+¡Gracias por contribuir!
